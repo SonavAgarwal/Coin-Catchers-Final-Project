@@ -4,7 +4,7 @@ A game created for my Advanced CS final game project.
 How to run: 
 * download the contents of the repository
 * open the folder in terminal / command prompt
-* run `javac \*.java && java Runner`
+* run `javac *.java && java Runner`
 
 How to play:
 * use the arrow keys to move
